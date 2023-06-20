@@ -1,0 +1,44 @@
+[
+  {
+    "name": "Brownie sem glúten",
+    "price": "R$ 16,90",
+    "description": "Brownie feito com farinha de amêndoas, açúcar mascavo, chocolate meio amargo vegano, calda de chocolate servida quente, nozes e um toque de avelã. Acompanha uma bola de sorvete de baunilha vegano por um adicional de 4$.",
+    "image": "assets/images/desserts/BrownieSemGluten.png"
+  },
+  {
+    "name": "Banoffee sem glúten",
+    "price": "RS$ 20,90",
+    "description": "Fatia de torta com base de biscoito de farinha de amêndoas, rodelas de banana, doce de leite de castanha de caju, chantilly de leite de coco, canela polvilhada e raspas de chocolate.",
+    "image": "assets/images/desserts/BanoffeeSemGluten.jpg"
+  },
+  {
+    "name": "Pão de melado",
+    "price": "RS$ 20,90",
+    "description": "Fatia de 'pão de mel' preparado com farinha de trigo, chocolate meio amargo vegano, leite vegetal, melado de cana, açúcar mascavo, canela, cravo, noz-moscada e recheado de doce de leite de castanha de caju. Contém glúten.",
+    "image": "assets/images/desserts/PaoDeMelado.jpg"
+  },
+  {
+    "name": "Cocada com sorvete",
+    "price": "RS$ 18,90",
+    "description": "Cocada elaborada com coco fresco, leite de coco cremoso e açúcar de coco. Dourada ao forno e servida quente com uma bola de sorvete de baunilha vegano e lâminas de amêndoas.",
+    "image": "assets/images/desserts/CocadaComSorvete.jpg"
+  },
+  {
+    "name": "Not Milkshake",
+    "price": "16,90",
+    "description": "Sorvete de baunilha vegano batido com morangos e finalizado com xarope de frutas vermelhas, biscoito de amêndoas em pedaços, amendoim salpicado e chantilly de leite de coco.",
+    "image": "assets/images/desserts/NotMilkshake.png"
+  },
+  {
+    "name": "Parfait",
+    "price": "R$ 15,90",
+    "description": "Iogurte de coco fermentado, geleia de frutas vermelhas, mix de frutas da estação, tâmaras, granola e hortelã.",
+    "image": "assets/images/desserts/Parfait.jpg"
+  },
+  {
+    "name": "Cookies (5 unidades)",
+    "price": "R$ 20,00",
+    "description": "Opções de sabores: \nCookies de baunilha com pedaços cremosos de chocolate branco vegano e macadâmias. \nCookies de amêndoas com recheio de pasta de amendoim (Opção sem glúten).\nCookies de chocolate com recheio de creme de avelã.",
+    "image": "assets/images/desserts/Cookies.jpg"
+  }
+]

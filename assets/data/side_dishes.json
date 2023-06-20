@@ -1,0 +1,51 @@
+[
+  {
+    "name": "Batata rústica",
+    "price": "R$ 20,00",
+    "description": "Batata inglesa cortada grosseiramente e frita com alecrim, alho negro e azeite (200g). Acompanha molho de tomate artesanal.",
+    "image": "assets/images/side_dishes/BatataRustica.jpg"
+  },
+  {
+    "name": "Sweet rústica",
+    "price": "R$ 21,90",
+    "description": "Batata doce cortada grosseiramente e frita com flor de sal, alho negro e azeite (200g). Acompanha molho de tomate artesanal.",
+    "image": "assets/images/side_dishes/SweetRustica.png"
+  },
+  {
+    "name": "Onion rings",
+    "price": "R$ 21,90",
+    "description": "Cebola empanada e frita com salsa, alho negro e azeite (150g). Acompanha molho de tomate artesanal. Contém glúten.",
+    "image": "assets/images/side_dishes/OnionRings.jpg"
+  },
+  {
+    "name": "Tortillas",
+    "price": "R$ 20,00",
+    "description": "Tortilla de milho verde cultivado no local e frita no alho negro ao azeite (200g). Acompanha molho de pimenta chili.",
+    "image": "assets/images/side_dishes/Tortillas.jpg"
+  },
+  {
+    "name": "Nuggets vegetais",
+    "price": "R$ 16,90",
+    "description": "Nuggets crocantes à base de proteína de ervilha, legumes e farinha de aveia (8 unidades). Acompanha molho de tomate artesanal.",
+    "image": "assets/images/side_dishes/NuggetsVegetais.jpg"
+  },
+  {
+    "name": "Kibes vegetais",
+    "price": "R$ 18,90",
+    "description": "Kibes à base de soja e quinoa vermelha, recheados com requeijão de grão de bico (8 unidades). Acompanha rodelas de limão. Contém glúten.",
+    "image": "assets/images/side_dishes/KibesVegetais.png"
+  },
+  {
+    "name": "Falaféis assados",
+    "price": "R$ 18,90",
+    "description": "Falaféis artesanais feitos no forno, sem adição de gordura (8 unidades). Acompanha molho tahine e rodelas de limão.",
+    "image": "assets/images/side_dishes/FalafeisAssados.png"
+  },
+  {
+    "name": "Mandioca cremosa",
+    "price": "R$ 16,90",
+    "description": "Cubos de mandioca crocante por fora e macia por dentro, frita no azeite ao molho aioli trufado com alho negro (8 unidades).",
+    "image": "assets/images/side_dishes/MandiocaCremosa.png"
+  }
+]
+  

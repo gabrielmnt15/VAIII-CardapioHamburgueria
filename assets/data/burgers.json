@@ -1,0 +1,51 @@
+[
+  {
+    "name": "Da Terra",
+    "price": "R$ 38,90",
+    "description": "Hamburguer à base de abóbora cabotiá, quinoa e semente de girassol, molho especial da casa com macadâmias, queijo de castanha de caju, banana da terra frita no azeite, cebola roxa, tomate, picles e mix de folhas e sementes. Servido no pão de 12 grãos artesanal de fermentação lenta.",
+    "image": "assets/images/burgers/DaTerra.png"
+  },
+  {
+    "name": "Tropical",
+    "price": "R$ 32,00",
+    "description": "Hamburguer à base de carne de caju e farinha de coco, maionese de abacate, queijo de castanha de caju, abacaxi grelhado, cubos de manga, lâminas de amêndoas, hortelã, tomate, picles e alface. Servido no pão de gergelim.",
+    "image": "assets/images/burgers/Tropical.png"
+  },
+  {
+    "name": "Indiano",
+    "price": "R$ 33,90",
+    "description": "Hamburguer de falafel, molho tahine, queijo de tofu, babaganoush (berinjela defumada), especiarias indianas, tomate, picles e alface. Servido no pão naan recheado de alho.",
+    "image": "assets/images/burgers/Indiano.png"
+  },
+  {
+    "name": "Oriental",
+    "price": "RS$ 35,00",
+    "description": "Hamburguer à base de cogumelos shitake e shimeji, molho shoyu, queijo de tofu, alga nori, lâminas de rabanetes em conserva, brotos de moyashi salteados, tomate, picles e folhas de rúcula. Servido no pão de gergelim.",
+    "image": "assets/images/burgers/Oriental.jpg"
+  },
+  {
+    "name": "Chili",
+    "price": "RS$ 32,00",
+    "description": "Hamburguer empanado à base de feijão vermelho e soja, molho de pimenta chili, queijo de castanha de caju, tortillas, cebola roxa, abacate, coentro e vinagrete. Servido no pão de gergelim.",
+    "image": "assets/images/burgers/Chili.jpg"
+  },
+  {
+    "name": "Australiano",
+    "price": "RS$ 36,90",
+    "description": "Três hamburgueres à base de berinjela, cogumelo portobello e quinoa preta feitos na brasa, molho barbecue, triplo queijo de castanha de caju, fatias fartas de bacon de inhame, onion rings e cenouras caramelizadas. Servido no pão australiano.",
+    "image": "assets/images/burgers/Australiano.jpg"
+  },
+  {
+    "name": "Marguerita",
+    "price": "RS$ 30,90",
+    "description": "Hamburguer à base de lentilha e folhas de orégano, molho pesto de manjericão, queijo de tofu, champignons, azeitonas pretas, tomate cereja e folhas de manjericão. Servido no pão de gergelim.",
+    "image": "assets/images/burgers/Marguerita.png"
+  },
+  {
+    "name": "Popeye",
+    "price": "RS$ 33,90",
+    "description": "Hamburguer à base de proteína de ervilha, espinafre e beterraba, molho verde, queijo de castanha de caju, purê de batata, bacon de inhame, batata palha, milho verde, palmito, azeitonas, tomate, picles e alface. Servido no pão de gergelim.",
+    "image": "assets/images/burgers/Popeye.jpg"
+  }
+]
+  

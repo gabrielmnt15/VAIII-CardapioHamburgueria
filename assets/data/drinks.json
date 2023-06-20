@@ -1,0 +1,26 @@
+[
+  {
+    "name": "Limonada Da Terra",
+    "price": "RS$ 15,90",
+    "description": "Limão siciliano, morango, hibiscu, capim santo e água de coco. Pode ser adoçado ou não.",
+    "image": "assets/images/drinks/LimonadaDaTerra.jpg"
+  },
+  {
+    "name": "Sucos tradicionais",
+    "price": "RS$ 12,00",
+    "description": "Opções: abacaxi com hortelã, goiaba, manga, laranja com cenoura, limão com erva cidreira. Podem ser adoçados ou não.",
+    "image": "assets/images/drinks/SucosTradicionais.jpg"
+  },
+  {
+    "name": "Água de coco",
+    "price": "RS$ 7,00",
+    "description": "Coco cortado para facilitar o consumo e servido com canudinho biodegradável.",
+    "image": "assets/images/drinks/AguaDeCoco.png"
+  },
+  {
+    "name": "Refrigerante",
+    "price": "RS$ 10,00",
+    "description": "Opções: coca-cola, fanta laranja, fanta uva, sprite de limão e pepsi.",
+    "image": "assets/images/drinks/Refrigerante.jpg"
+  }
+]
